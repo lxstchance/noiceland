@@ -1,8 +1,9 @@
 .illustration__title {
-    max-width: 383px;
+    text-transform: uppercase;
     font-family: 'Tenor Sans', sans-serif;
     font-size: 36px;
     line-height: 42px;
     font-weight: 400;
+    margin: 0;
     margin-bottom: 27px;
 }

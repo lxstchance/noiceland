@@ -1,0 +1,8 @@
+.content__item_size_md {
+    max-width: 387px;
+    margin-left: 20px;
+}
+
+.content__item_size_md:nth-child(3n+1) {
+    margin-left: 0;
+}

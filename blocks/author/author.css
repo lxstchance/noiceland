@@ -1,0 +1,16 @@
+.author {
+    text-transform: uppercase;
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 10px;
+    line-height: 12px;
+    font-weight: 700;
+    margin: 0;
+    padding-left: 19px;
+    position: relative;
+}
+
+.author::before {
+    content: 'by';
+    position: absolute;
+    left: 0;
+}
