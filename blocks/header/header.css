@@ -2,6 +2,5 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 37px 25px;
-    border-bottom: 1px solid #E6E6E6;
+    padding: 37px 0;
 }

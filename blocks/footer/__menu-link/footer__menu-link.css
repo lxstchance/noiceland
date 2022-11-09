@@ -1,0 +1,12 @@
+.footer__menu-link {
+    display: block;
+    font-family: 'Libre Franklin', sans-serif;
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: normal;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+}

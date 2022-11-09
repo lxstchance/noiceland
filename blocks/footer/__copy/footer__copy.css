@@ -1,0 +1,10 @@
+.footer__copy {
+    margin: 0;
+    font-family: 'Libre Franklin', sans-serif;
+    text-transform: uppercase;
+    margin-left: 15px;
+    font-size: 10px;
+    line-height: 12px;
+    font-weight: 400;
+    color: #666;
+}

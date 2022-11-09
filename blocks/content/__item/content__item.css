@@ -1,3 +1,5 @@
 .content__item {
+    list-style-type: none;
     margin-bottom: 74px;
+    padding: 0;
 }
